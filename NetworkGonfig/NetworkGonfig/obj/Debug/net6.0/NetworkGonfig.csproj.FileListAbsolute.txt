@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\obj\Debug\net6.0\NetworkGonfig.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\obj\Debug\net6.0\NetworkGonfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\obj\Debug\net6.0\NetworkGonfig.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\obj\Debug\net6.0\NetworkGonfig.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\obj\Debug\net6.0\NetworkGonfig.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\bin\Debug\net6.0\NetworkGonfig.exe
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\bin\Debug\net6.0\NetworkGonfig.deps.json
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\bin\Debug\net6.0\NetworkGonfig.runtimeconfig.json
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\bin\Debug\net6.0\NetworkGonfig.dll
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\bin\Debug\net6.0\NetworkGonfig.pdb
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\obj\Debug\net6.0\NetworkGonfig.dll
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\obj\Debug\net6.0\refint\NetworkGonfig.dll
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\obj\Debug\net6.0\NetworkGonfig.pdb
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\obj\Debug\net6.0\NetworkGonfig.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\NetworkGonfig\NetworkGonfig\obj\Debug\net6.0\ref\NetworkGonfig.dll
