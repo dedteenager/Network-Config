@@ -8,7 +8,7 @@ namespace NetworkConfiguration
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Network Configuration");
+            Console.WriteLine("Настройка сети");
             Console.WriteLine();
             NetworkInterface[] interfaces = NetworkInterface.GetAllNetworkInterfaces();
             foreach (NetworkInterface N in interfaces)
@@ -16,7 +16,7 @@ namespace NetworkConfiguration
                 
                 if (N.OperationalStatus == OperationalStatus.Up && N.Supports(NetworkInterfaceComponent.IPv4))
                 {
-                    Console.WriteLine($"Configuring network interface: {N.Name}");
+                    Console.WriteLine($"Настройка сетевого интерфейса: {N.Name}");
                     N.EnableDhcp();
                     N.Speed = Int64.MaxValue;
 
@@ -31,12 +31,12 @@ namespace NetworkConfiguration
                                 TcpClient client = new TcpClient();
                                 client.Connect(network.Address, 80);
 
-                                Console.WriteLine($"Connected to network: {network.Address}/{network.IPv4Mask}");
+                                Console.WriteLine($"Подключено к сети: {network.Address}/{network.IPv4Mask}");
                                 break;
                             }
                             catch (Exception ex)
                             {
-                                Console.WriteLine($"Error connecting to network: {ex.Message}");
+                                Console.WriteLine($"Ошибка подключения к сети: {ex.Message}");
                             }
                         }
                     }
@@ -45,7 +45,7 @@ namespace NetworkConfiguration
                 }
             }
 
-            Console.WriteLine("Network configuration completed.");
+            Console.WriteLine("Настройка завершена.");
             Console.ReadLine();
         }
     }
